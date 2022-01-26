@@ -10,7 +10,7 @@ Implement the following data structures from scratch in python
 
 Build an API server using flask and these data structures
 
-## # Requirement
+## Requirement
 
 * Flask
 * flask_sqlalchemy
