@@ -36,6 +36,7 @@ $ python3
 ```
 
 **Generate dummy data**
+
 generate 200 users and 200 blogs.
 
 ```bash=
