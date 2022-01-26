@@ -56,7 +56,7 @@ class LinkedList:
 
         new_node = Node(data, self.head)
         self.head = new_node
-    
+
     def insert_at_end(self, data: Dict[str, Any]):
         """Insert at the end
 
